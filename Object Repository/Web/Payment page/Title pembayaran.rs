@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title pembayaran</name>
+   <tag></tag>
+   <elementGuidId>d7a6809a-9699-4bff-8049-de54b000a72f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.desc__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>f70e1fea-f399-4d7b-9643-406a5907317a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desc__text</value>
+      <webElementGuid>c432dfbb-67a3-4557-b489-33bd867b2e4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Pembayaran
+        </value>
+      <webElementGuid>af7a4a69-7559-408f-a9be-d9695a01eb74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;app-wrapper&quot;]/div[@class=&quot;payment-list-page&quot;]/div[@class=&quot;payment-list-content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;top-section&quot;]/div[@class=&quot;top-section__desc desc&quot;]/h1[@class=&quot;desc__text&quot;]</value>
+      <webElementGuid>1b1e7491-6e38-4f12-b7b2-6156c9d58f12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/div/div/div/h1</value>
+      <webElementGuid>920f4426-2a4b-4b0f-9af0-82f47f6d808d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order ID: 11AQX11EB132'])[1]/preceding::h1[1]</value>
+      <webElementGuid>63bd4bf6-7dfd-4ac5-9315-07d32b068d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Pesanan'])[1]/preceding::h1[1]</value>
+      <webElementGuid>db9378fc-7690-4fde-bb0b-26421599bcdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>d83c9347-bfb2-4738-b220-41341bd9826c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '
+          Pembayaran
+        ' or . = '
+          Pembayaran
+        ')]</value>
+      <webElementGuid>b7d479a2-cb04-4e9a-9822-896f55a3804f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

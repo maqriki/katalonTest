@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input first name</name>
+   <tag></tag>
+   <elementGuidId>42140bb7-587f-48dc-b2a6-788fe134e415</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.namaDepan.text-form.form-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>135f34bf-e42e-4760-b5a7-16404c458684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>4b858bd9-e31e-4a65-b141-ae9ecaa37c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f6cea1e1-0025-4e80-8232-f0ca99a82ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>namaDepan text-form form-control</value>
+      <webElementGuid>653614ce-4dff-41d2-97fc-12193437c917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cth: Budi Tri</value>
+      <webElementGuid>f2bafe1a-8bb8-470d-b9cb-552b3543671e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;paymentPage&quot;]/div[@class=&quot;outer-wrapper data-kontak&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;widget&quot;]/div[@class=&quot;formLine&quot;]/div[@class=&quot;frForm&quot;]/input[@class=&quot;namaDepan text-form form-control&quot;]</value>
+      <webElementGuid>07e3e080-548d-4bd5-b922-fd5b46b0c4d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>99fcba62-081a-42dd-8e8d-fb11c505f6b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/input</value>
+      <webElementGuid>9fe6c74a-8bbd-4196-9fc4-a8304bc1dcaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cth: Budi Tri']</value>
+      <webElementGuid>bb085994-d2f4-40d6-aa80-6d4ac9fc0f14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

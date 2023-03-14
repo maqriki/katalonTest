@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox persetujuan</name>
+   <tag></tag>
+   <elementGuidId>8332fe15-06a4-4a0d-a0f0-2bb8e9287edb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.checkmark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8098f074-dbe9-452b-b9e4-3747732ed33c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>481a834e-8ded-4a4e-acc1-1bcad1e71b13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;paymentPage&quot;]/div[@class=&quot;outer-wrapper data-penumpang&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;block bottom-button&quot;]/div[@class=&quot;fLeft&quot;]/div[@class=&quot;term&quot;]/label[@class=&quot;outer-checkbox&quot;]/span[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>4a017aa1-1ae1-43a0-9e8e-0635521e8b39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/label/span</value>
+      <webElementGuid>24429924-a49a-4e06-a78f-7a1ae897ccb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

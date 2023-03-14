@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Booking hotel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2c7dfb87-e81f-4d6d-ae27-f3a0487cf2e4</testSuiteGuid>
+   <testCaseLink>
+      <guid>00fd359a-e1da-474f-a396-3c99d18b6e60</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Booking Hotel</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1bb7a58a-5605-42df-aece-843d358bea90</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>2</value>
+         </iterationEntity>
+         <testDataId>Data Files/test case booking hotel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1bb7a58a-5605-42df-aece-843d358bea90</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstName</value>
+         <variableId>273d3dd3-1da7-41e3-be50-1902514c8c53</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>03431bb5-aa4d-4321-a7a5-64bbd631a020</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1bb7a58a-5605-42df-aece-843d358bea90</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>phone</value>
+         <variableId>eecea4b1-5180-429a-a219-29ca6928b366</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1bb7a58a-5605-42df-aece-843d358bea90</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>411f0cbd-edfb-446f-8b2e-900d13979b16</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1bb7a58a-5605-42df-aece-843d358bea90</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>guest</value>
+         <variableId>7564cc23-a119-4cb5-ae68-7d5b920c36b1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

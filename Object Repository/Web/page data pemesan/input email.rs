@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input email</name>
+   <tag></tag>
+   <elementGuidId>3c22a549-81da-49fd-abb4-d456731e3764</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.email.text-form.form-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3b0be72d-6015-4d13-b860-a2a6515ae43a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>0a9d4ca0-71ff-4df6-a555-59923c83c423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>email text-form form-control</value>
+      <webElementGuid>9ad3372f-9b0d-42e7-a7a2-cb7b55307985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cth: user@domain.com</value>
+      <webElementGuid>f7155c34-7c23-415e-b036-c06f4832de56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;paymentPage&quot;]/div[@class=&quot;outer-wrapper data-kontak&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;widget&quot;]/div[@class=&quot;formLine&quot;]/div[@class=&quot;frForm&quot;]/input[@class=&quot;email text-form form-control&quot;]</value>
+      <webElementGuid>693bb490-8494-4bfe-9958-9ebb5cd61309</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>0819d330-8230-4a5c-8816-e55e08a580c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/input</value>
+      <webElementGuid>85189fea-30f1-42d9-93f8-90e4177438fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cth: user@domain.com']</value>
+      <webElementGuid>59836fd8-8186-4ac7-8420-d462a9e72216</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
